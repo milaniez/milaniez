@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milaniez
 - 👀 I’m interested in Software/System Engineering, Network Security, Computer Vision and lots more!!
-- 🌱 I’m currently learning how to write AI pipelines
+- 🌱 I’m currently working on some interesting open-source project. Stay tuned!
 - 💞️ I’m looking to collaborate on something that would give me a lot of knowledge on untapped territories
 - 📫 How to reach me: Insta: mehdi.playz
 
